@@ -5,8 +5,8 @@
 #include <stdio.h>
 
 int main(void) {
-    double num1,num2; //Declaration of variables
-    double suma, resta, division, multiplicacion; //Declaration of variables
+    double num1,num2; //Declaration of scan variables
+    double suma, resta, division, multiplicacion; //Declaration of operation variables
 
     printf("Este programa te va a ayudar a multiplicar, dividir , sumar y restar dos numeros\n");
     //Explication of the program
