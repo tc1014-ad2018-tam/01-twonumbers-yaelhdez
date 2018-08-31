@@ -1,6 +1,6 @@
 //Carlos Yael Hernandez Alcala
 //A01412016
-//A01412016@ITESM.MX
+//A01412016@itesm.mx
 
 #include <stdio.h>
 
